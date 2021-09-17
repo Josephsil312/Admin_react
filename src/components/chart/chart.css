@@ -1,0 +1,13 @@
+.chart {
+  margin: 20px;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.chartTitle {
+  margin-bottom: 20px;
+}
+.buttons {
+  margin-left: 70%;
+  text-align: right;
+}

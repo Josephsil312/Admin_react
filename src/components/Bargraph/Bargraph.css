@@ -1,0 +1,12 @@
+.chart {
+  flex: 1;
+  margin: 20px;
+  padding: 20px;
+}
+
+.chartTitle {
+  margin-bottom: 20px;
+}
+.bargraphpaper {
+  margin-left: 10px;
+}
